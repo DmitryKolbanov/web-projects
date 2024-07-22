@@ -1,9 +1,9 @@
 # Здесь находятся мои учебные проекты, связанные с веб-разработкой
 
-## pindie
+# pindie
 Fullstack-приложение - каталог инди-игр, написанный на стеке MERN
 
-## porshe_club_forum
+# porshe_club_forum
 Фронтенд форума, написан на Vue.js
 
 ## other_projects
